@@ -1,0 +1,18 @@
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\bin\Debug\net5.0-windows\Lab1 zad1.exe
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\bin\Debug\net5.0-windows\Lab1 zad1.deps.json
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\bin\Debug\net5.0-windows\Lab1 zad1.runtimeconfig.json
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\bin\Debug\net5.0-windows\Lab1 zad1.runtimeconfig.dev.json
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\bin\Debug\net5.0-windows\Lab1 zad1.dll
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\bin\Debug\net5.0-windows\ref\Lab1 zad1.dll
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\bin\Debug\net5.0-windows\Lab1 zad1.pdb
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\obj\Debug\net5.0-windows\Lab1 zad1.csproj.AssemblyReference.cache
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\obj\Debug\net5.0-windows\Lab1_zad1.Form1.resources
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\obj\Debug\net5.0-windows\Lab1 zad1.csproj.GenerateResource.cache
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\obj\Debug\net5.0-windows\Lab1 zad1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\obj\Debug\net5.0-windows\Lab1 zad1.AssemblyInfoInputs.cache
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\obj\Debug\net5.0-windows\Lab1 zad1.AssemblyInfo.cs
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\obj\Debug\net5.0-windows\Lab1 zad1.csproj.CoreCompileInputs.cache
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\obj\Debug\net5.0-windows\Lab1 zad1.dll
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\obj\Debug\net5.0-windows\ref\Lab1 zad1.dll
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\obj\Debug\net5.0-windows\Lab1 zad1.pdb
+E:\Zadania prog\Lab1 zad1\Lab1 zad1\obj\Debug\net5.0-windows\Lab1 zad1.genruntimeconfig.cache
